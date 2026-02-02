@@ -1,7 +1,7 @@
 ## systemPipeRdata: Single Cell RNA-Seq Workflow Template
 
 This is a workflow of the systemPipeR Workflow Management System (WMS).
-Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-scrnaseq-02-14-04/SPscrna.html).
+Detailed information about this specific workflow is available [here](https://systempipe.org/sprwf-spscrna-02-14-04/SPscrna.html).
 
 To learn how to design, set up, and run workflows using systemPipeR, users want to consult the official user manuals:
 
